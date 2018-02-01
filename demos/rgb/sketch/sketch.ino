@@ -1,7 +1,7 @@
 #include <WebUSB.h>
 #include <Adafruit_CircuitPlayground.h>
 
-WebUSB WebUSBSerial(1, "https://n9jlo.github.io/arduino/demos/rgb/");
+WebUSB WebUSBSerial(1, "n9jlo.github.io/arduino/demos/rgb/");
 
 #define Serial WebUSBSerial
 
