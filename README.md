@@ -1,4 +1,4 @@
-WebUSB ❤ ️Arduino
+WebUSB ❤ ️Circuit Playground
 ================
 
 This repository contains an Arduino library for WebUSB-enabling your sketches. Example sketches and JavaScript code are available in the demos directory.
@@ -8,13 +8,7 @@ Compatible Hardware
 
 WebUSB requires an Arduino model that gives the sketch complete control over the USB hardware. This library has been tested with the following models:
 
- * Arduino Leonardo
- * Arduino/Genuino Micro
- * Arduino/Genuino Zero
- * Arduino MKR1000
- * Arduino MKRZero
- * Arduino MKRFox1200
- * Adafruit Feather 32u4
+ * Adafruit Circuit Playground
 
 Getting Started
 ---------------
